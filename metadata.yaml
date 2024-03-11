@@ -1,0 +1,42 @@
+_repo: The-soul-of-the-moving-picture_73028
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Porterfield, Allen Wilson
+    alias: Porterfield, Allen W.
+    birthdate: 1877
+    deathdate: 1952
+    gutenberg_agent_id: '3818'
+    url: http://www.gutenberg.org/2009/agents/3818
+creator:
+  author:
+    agent_name: Bloem, Walter Julius
+    alias: Bloem, Walter S.
+    birthdate: 1898
+    deathdate: 1945
+    gutenberg_agent_id: '56917'
+    url: http://www.gutenberg.org/2009/agents/56917
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Walter_Julius_Bloem
+    - https://de.wikipedia.org/wiki/Walter_Julius_Bloem
+description: ''
+gutenberg_issued: '2024-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73028'
+  lccn: '24023394'
+language: en
+pgterms:marc904: https://archive.org/details/soulofmovingpict00bloe
+pgterms:marc905: 20240215104609bloem
+pgterms:marc906: '1924'
+pgterms:marc907: US
+publication_note: '  $aNew York :$bE. P. Dutton & Company, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Motion pictures'
+- !lcc 'PN'
+- GITenberg
+title: The soul of the moving picture
+url: http://www.gutenberg.org/ebooks/73028
